@@ -342,6 +342,7 @@ main#home h1 {
   }
   .menu-branding .portrait {
     background: url("../img/small.jpg");
+
     width: 150px;
     height: 150px;
   }
